@@ -4,8 +4,7 @@
 
 
 (defn parse-entry [entry]
-  (let [[k v] clojure.string/split entry #":"]
-    {k v}))
+  (let [key-value-pairs clojure.string/split entry #":"]))
 
 (defn parse-passport [blob]
   (->> (clojure.string/split blob #"(\s|\n)")))

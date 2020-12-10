@@ -5,3 +5,7 @@ B
 deps.edn,4/2/4299fdd67488e56cf38aaa750b32c9e43148768a
 B
 src/advent_two.clj,a/0/a0f0921d3e2f298ee3501a14bb077979ac2c94eb
+D
+src/advent_three.clj,a/c/accc22439cbf5b75265c7d397a2bed2de7534236
+C
+src/advent_four.clj,c/8/c8a15ebbbb351014f432f934dccbc8e0f70b0bf3
